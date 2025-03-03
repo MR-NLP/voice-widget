@@ -1,0 +1,195 @@
+{
+  "variant": "contained",
+  "positionType": "static",
+  "From": "+12172199100",
+  "To": "+12172199100",
+  "Called": "+12172199100",
+  "position": {
+    "bottom": "40px",
+    "right": "20px"
+  },
+  "icon": {
+    "type": "call",
+    "size": 20,
+    "color": "#FFFFFF",
+    "animation": false,
+    "position": "start"
+  },
+  "container": {
+    "width": "240px",
+    "height": "auto",
+    "textColor": "#333333",
+    "background": {
+      "type": "solid",
+      "color": "#F3F4F6",
+      "colorInCall": "#dc2626"
+    },
+    "borderRadius": {
+      "topLeft": "12px",
+      "topRight": "12px",
+      "bottomLeft": "12px",
+      "bottomRight": "12px"
+    },
+    "border": {
+      "width": "1px",
+      "style": "solid",
+      "color": "#E5E7EB"
+    },
+    "boxShadow": {
+      "enabled": true,
+      "blur": "12px",
+      "spread": "0px",
+      "color": "#000000",
+      "opacity": 0.08
+    },
+    "padding": {
+      "left": "16px",
+      "top": "16px",
+      "right": "16px",
+      "bottom": "16px"
+    }
+  },
+  "button": {
+    "width": "auto",
+    "height": "auto",
+    "background": {
+      "type": "solid",
+      "color": "#2563EB",
+      "colorInCall": "#dc2626"
+    },
+    "borderRadius": {
+      "topLeft": "8px",
+      "topRight": "8px",
+      "bottomLeft": "8px",
+      "bottomRight": "8px"
+    },
+    "boxShadow": {
+      "enabled": false,
+      "blur": "8px",
+      "spread": "0px",
+      "color": "#000000",
+      "opacity": 0.1
+    },
+    "padding": "12px"
+  },
+  "text": {
+    "primary": "Questions? Let's chat!",
+    "secondary": "Start a call",
+    "fontSize": "14px",
+    "color": "#FFFFFF",
+    "feedbackSettingUp": "Setting up the call",
+    "feedbackClick": "Click to get support",
+    "feedbackConnecting": "Connecting the line..."
+  },
+  "layout": {
+    "direction": "vertical",
+    "spacing": "12px"
+  },
+  "floatingText": {
+    "enabled": true,
+    "text": "Powered by AI Frontdesk",
+    "color": "#6B7280",
+    "fontSize": "12px",
+    "href": "https://www.myaifrontdesk.com"
+  },
+  "savedConfig": {
+    "From": "+12172199100",
+    "icon": {
+      "position": "start",
+      "type": "call",
+      "size": 20,
+      "color": "#FFFFFF",
+      "animation": false
+    },
+    "createdAt": "2025-03-03T04:35:03.722Z",
+    "container": {
+      "border": {
+        "width": "1px",
+        "color": "#E5E7EB",
+        "style": "solid"
+      },
+      "boxShadow": {
+        "blur": "12px",
+        "color": "#000000",
+        "opacity": 0.08,
+        "enabled": true,
+        "spread": "0px"
+      },
+      "padding": {
+        "right": "16px",
+        "top": "16px",
+        "left": "16px",
+        "bottom": "16px"
+      },
+      "borderRadius": {
+        "topRight": "12px",
+        "bottomLeft": "12px",
+        "bottomRight": "12px",
+        "topLeft": "12px"
+      },
+      "background": {
+        "type": "solid",
+        "color": "#F3F4F6",
+        "colorInCall": "#dc2626"
+      },
+      "width": "240px",
+      "textColor": "#333333",
+      "height": "auto"
+    },
+    "layout": {
+      "direction": "vertical",
+      "spacing": "12px"
+    },
+    "text": {
+      "secondary": "Start a call",
+      "color": "#FFFFFF",
+      "feedbackSettingUp": "Setting up the call",
+      "fontSize": "14px",
+      "feedbackConnecting": "Connecting the line...",
+      "primary": "Questions? Let's chat!",
+      "feedbackClick": "Click to get support"
+    },
+    "positionType": "static",
+    "userId": "Michaelreinhartnlp1",
+    "updatedAt": "2025-03-03T04:36:18.630Z",
+    "rounded": false,
+    "Called": "+12172199100",
+    "variant": "contained",
+    "button": {
+      "width": "auto",
+      "boxShadow": {
+        "blur": "8px",
+        "color": "#000000",
+        "opacity": 0.1,
+        "enabled": false,
+        "spread": "0px"
+      },
+      "padding": "12px",
+      "borderRadius": {
+        "topRight": "8px",
+        "bottomLeft": "8px",
+        "bottomRight": "8px",
+        "topLeft": "8px"
+      },
+      "background": {
+        "type": "solid",
+        "color": "#2563EB",
+        "colorInCall": "#dc2626"
+      },
+      "height": "auto"
+    },
+    "To": "+12172199100",
+    "id": "807ebdcb-6ad7-4c19-9f41-dd6445e8667f",
+    "position": {
+      "bottom": "40px",
+      "right": "20px"
+    },
+    "floatingText": {
+      "fontSize": "12px",
+      "text": "Powered by AI Frontdesk",
+      "href": "https://www.myaifrontdesk.com",
+      "color": "#6B7280",
+      "enabled": true
+    }
+  }
+}
